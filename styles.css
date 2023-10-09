@@ -30,10 +30,7 @@
         }
         .buttons{
             margin-bottom: 50px;
-            
-           
-            
-        }
+            }
 
        
         .left-pane-button {
@@ -48,10 +45,7 @@
          background-color: rgb(34, 34, 34);
           cursor: pointer;
           margin-left: 4px;;
-          
-          
-             
-        }
+           }
        
         
         .left-pane-button.hide-button {
@@ -77,11 +71,9 @@
         .left-pane-button.hide-button i {
             height:45px;
             padding-top: 0.1rem;
-           
-            
-            
-        }
-   /* Style for the tooltip */
+           }
+   
+/* Style for the tooltip */
 .hidebutton-panel {
     position: absolute;
     background-color: #070707;
@@ -118,10 +110,7 @@
     height: 40px;; 
     width: 40px;
     cursor: pointer;
-   
-   
-    
-  } 
+} 
     
    .chat-list-container {
             max-height: 400px; 
@@ -131,17 +120,17 @@
         }
 /* Hide the default scrollbar */
 ::-webkit-scrollbar {
-    width: 8px; /* Width of the scrollbar */
+    width: 8px; 
 }
 
 /* Style the thumb (the draggable part) of the scrollbar */
 ::-webkit-scrollbar-thumb {
-    background-color:#e4d6d6;  /* Color of the scrollbar thumb (white) */
+    background-color:#e4d6d6;  
     border-radius: 10px; }
     
 /* Style the track (the non-draggable part) of the scrollbar */
 ::-webkit-scrollbar-track {
-    background-color: transparent /* Color of the scrollbar track (black) */
+    background-color: transparent 
 }
 
 /* Style the corner where horizontal and vertical scrollbars meet (if needed) */
@@ -409,12 +398,8 @@
             text-align: left;
             align-items: center;
             padding:20px;
-
-            
-           
-            
-            
-           }
+     
+        }
            .item-rows button:hover{
             background-color: #666;
            
@@ -426,40 +411,31 @@
                display: inline-block;
            }
           
-           
-       
-   
-          
-       
-
-           .floating-input {
+            .floating-input {
           
             padding: 10px;
             background-color: rgb(68, 71, 89);
-            
             margin-bottom: 8px;
-          margin-left: 10rem;
-          margin-right: 10rem;;
+            margin-left: 10rem;
+            margin-right: 10rem;;
             border-radius: 0.5rem;
-           
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
             position: relative;  
             display: flex;
             align-items: center; 
             margin-bottom: 10px;
-               height: 35px;
+            height: 35px;
            }
           
-           
   .floating-button-three{
         background-color: rgb(68, 71, 89);
        font-size: 20px;
        position: absolute;
-       right: 10px; 
+        right: 10px; 
        top: 50%; 
-      transform: translateY(-50%); 
-      border: none;
-      padding: 5px 10px;
+       transform: translateY(-50%); 
+       border: none;
+       padding: 5px 10px;
        cursor: pointer;
          }
        
@@ -490,10 +466,7 @@
                 color: #b2afaf;
                 border: none;
                 cursor: pointer;
-                
-               
-               
-            }
+                 }
            
             .r-preview{
                 font-size:0.7rem ;
@@ -501,18 +474,12 @@
                 display: flex;
                 justify-content: center;
                 
-                
-                
-            }
+         }
            .message-area{
             margin-top: 10px;;
-            
-            
-            
+             
            } 
             
-      
-           
       .upgrade{
         font-size: 13px;;
         height: 30px;;
