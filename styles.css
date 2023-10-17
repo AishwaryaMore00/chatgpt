@@ -21,7 +21,7 @@
 
         .left-pane {
             
-            width: 18%;
+            width: 250px;
             background-color: #222;
             flex-direction: column;
              
