@@ -187,8 +187,8 @@
         }
 
         .right-pane {
-            
-            width:1106px;
+            width:100%;
+            /*width:1106px;*/
             background-color: rgb(53, 54, 66);
             color-scheme: dark;
             display: flex;
