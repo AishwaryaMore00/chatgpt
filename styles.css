@@ -187,7 +187,7 @@
         }
 
         .right-pane {
-            width:80%;
+            width:100%;
             /*width:1106px;*/
                 overflow: hidden;
             background-color: rgb(53, 54, 66);
