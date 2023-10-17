@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
             hideButton.addEventListener("click", () => {
                 leftPane.style.display = "none";
-               
+               const rightPane = document.getElementById("rightPane");
                 rightPane.style.flex = "1"; 
                 showSidebarButton.style.display = "block"; 
                 
