@@ -56,6 +56,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
         const leftPane = document.getElementById("leftPane");
+        const rightPane = document.querySelector(".right-pane");
             const hideButton = document.querySelector(".hide-button");
             const showSidebarButton = document.getElementById("showSidebarButton");
     
