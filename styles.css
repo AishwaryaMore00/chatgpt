@@ -21,7 +21,7 @@
 
         .left-pane {
             
-            width: 250px;
+            width: 20%;
             background-color: #222;
             flex-direction: column;
              
@@ -188,7 +188,7 @@
 
         .right-pane {
             
-            width:1536px;
+            width:80%;
             background-color: rgb(53, 54, 66);
             color-scheme: dark;
             display: flex;
