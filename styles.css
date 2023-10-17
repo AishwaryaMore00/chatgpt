@@ -26,7 +26,7 @@
             flex-direction: column;
              
             
-            transition: width 0.3s;
+            /*transition: width 0.3s;*/
         }
         .buttons{
             margin-bottom: 50px;
